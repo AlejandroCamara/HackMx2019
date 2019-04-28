@@ -1,0 +1,25 @@
+{
+  "name": "hackmx2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fish_blocker.js",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroCamara/HackMx2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroCamara/HackMx2019/issues"
+  },
+  "homepage": "https://github.com/AlejandroCamara/HackMx2019#readme"
+}
