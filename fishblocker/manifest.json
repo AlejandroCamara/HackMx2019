@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Fish Blocker",
+    "version": "1.0",
+    "description": "Adds a red border to all webpages matching mozilla.org.",
+    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+    "icons": {
+        "48": "icons/border-48.png"
+    },
+    "permissions": [
+        "activeTab",
+        "sessions"
+    ],
+    "browser_action": {
+        "default_icon": "icons/border-48.png",
+        "default_title": "Fish Blocker",
+        "default_popup": "popups/main_pop_up.html"
+    }
+}
