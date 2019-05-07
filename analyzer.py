@@ -71,6 +71,6 @@ def main():
     elif cuenta in [2, 3]:
         print("SITIO REVERVADO")
     else:
-        print("SITIO MALO CUIDADO!!!")
+        print("SITIO SIN PODER VALIDAD SU IDENTIDAD, CUIDADO!!!")
 
 main()

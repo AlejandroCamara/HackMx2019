@@ -1,4 +1,4 @@
-var sitios_buenos = ['https://www.google.com/', 'https://www.banorte.com']
+var sitios_buenos = ['https://www.google.com/', 'https://www.banorte.com', "https://www.banorte.com/wps/portal/banorte"]
 var sitios_malos = ['http://banortebxi.com-acceso.mxnet24.com/wps/portal/banorte/']
 
 function displayDanger() {
